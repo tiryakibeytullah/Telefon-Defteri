@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Kisiler">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="ID" type="xs:string" minOccurs="0" />
+                <xs:element name="Ad" type="xs:string" minOccurs="0" />
+                <xs:element name="Soyad" type="xs:string" minOccurs="0" />
+                <xs:element name="TelefonNo" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Kisiler>
+    <ID>7a66de88-0302-4220-ab33-af9bf4015f74</ID>
+    <Ad>Beytullah </Ad>
+    <Soyad>Tiryaki</Soyad>
+    <TelefonNo>(542) 438-2522</TelefonNo>
+  </Kisiler>
+  <Kisiler>
+    <ID>1b81aa93-6dd9-44ba-ad7a-c183f52d45d7</ID>
+    <Ad>Burak</Ad>
+    <Soyad>Tiryaki</Soyad>
+    <TelefonNo>(542) 438-2145</TelefonNo>
+  </Kisiler>
+  <Kisiler>
+    <ID>a73ffc00-5c6e-4e50-8eec-3778bfb3cb3c</ID>
+    <Ad>Fatma</Ad>
+    <Soyad>Tiryaki</Soyad>
+    <TelefonNo>(212) 689-1770</TelefonNo>
+  </Kisiler>
+  <Kisiler>
+    <ID>a4ddaf53-1c65-45b0-96b4-5cff8b466232</ID>
+    <Ad>Habil</Ad>
+    <Soyad>Yadigar</Soyad>
+    <TelefonNo>(542) 438-2526</TelefonNo>
+  </Kisiler>
+</NewDataSet>

@@ -1,0 +1,37 @@
+c:\users\ilhan\documents\visual studio 2015\Projects\TelefonDefteriOrnekProje\TelefonDefteriOrnekProje\bin\Debug\TelefonDefteriOrnekProje.exe.config
+c:\users\ilhan\documents\visual studio 2015\Projects\TelefonDefteriOrnekProje\TelefonDefteriOrnekProje\bin\Debug\TelefonDefteriOrnekProje.exe
+c:\users\ilhan\documents\visual studio 2015\Projects\TelefonDefteriOrnekProje\TelefonDefteriOrnekProje\bin\Debug\TelefonDefteriOrnekProje.pdb
+c:\users\ilhan\documents\visual studio 2015\Projects\TelefonDefteriOrnekProje\TelefonDefteriOrnekProje\obj\Debug\TelefonDefteriOrnekProje.csprojResolveAssemblyReference.cache
+c:\users\ilhan\documents\visual studio 2015\Projects\TelefonDefteriOrnekProje\TelefonDefteriOrnekProje\obj\Debug\TelefonDefteriOrnekProje.Form1.resources
+c:\users\ilhan\documents\visual studio 2015\Projects\TelefonDefteriOrnekProje\TelefonDefteriOrnekProje\obj\Debug\TelefonDefteriOrnekProje.Properties.Resources.resources
+c:\users\ilhan\documents\visual studio 2015\Projects\TelefonDefteriOrnekProje\TelefonDefteriOrnekProje\obj\Debug\TelefonDefteriOrnekProje.csproj.GenerateResource.Cache
+c:\users\ilhan\documents\visual studio 2015\Projects\TelefonDefteriOrnekProje\TelefonDefteriOrnekProje\obj\Debug\TelefonDefteriOrnekProje.exe
+c:\users\ilhan\documents\visual studio 2015\Projects\TelefonDefteriOrnekProje\TelefonDefteriOrnekProje\obj\Debug\TelefonDefteriOrnekProje.pdb
+c:\users\ilhan\documents\visual studio 2015\Projects\TelefonDefteriOrnekProje\TelefonDefteriOrnekProje\obj\Debug\TelefonDefteriOrnekProje.frmYeniKayıt.resources
+c:\users\ilhan\documents\visual studio 2015\Projects\TelefonDefteriOrnekProje\TelefonDefteriOrnekProje\obj\Debug\TelefonDefteriOrnekProje.frmDuzenle.resources
+c:\users\ilhan\documents\visual studio 2015\Projects\TelefonDefteriOrnekProje\TelefonDefteriOrnekProje\obj\Debug\TelefonDefteriOrnekProje.frmHakkinda.resources
+C:\Users\ilhan\Desktop\Beyto\Projelerim\TelefonDefteriOrnekProje\TelefonDefteriOrnekProje\bin\Debug\TelefonDefteriOrnekProje.exe.config
+C:\Users\ilhan\Desktop\Beyto\Projelerim\TelefonDefteriOrnekProje\TelefonDefteriOrnekProje\obj\Debug\TelefonDefteriOrnekProje.exe
+C:\Users\ilhan\Desktop\Beyto\Projelerim\TelefonDefteriOrnekProje\TelefonDefteriOrnekProje\obj\Debug\TelefonDefteriOrnekProje.pdb
+C:\Users\ilhan\Desktop\Beyto\Projelerim\TelefonDefteriOrnekProje\TelefonDefteriOrnekProje\bin\Debug\TelefonDefteriOrnekProje.exe
+C:\Users\ilhan\Desktop\Beyto\Projelerim\TelefonDefteriOrnekProje\TelefonDefteriOrnekProje\bin\Debug\TelefonDefteriOrnekProje.pdb
+C:\Users\ilhan\Desktop\Beyto\Projelerim\TelefonDefteriOrnekProje\TelefonDefteriOrnekProje\obj\Debug\TelefonDefteriOrnekProje.csprojResolveAssemblyReference.cache
+C:\Users\ilhan\Desktop\Beyto\Projelerim\TelefonDefteriOrnekProje\TelefonDefteriOrnekProje\obj\Debug\TelefonDefteriOrnekProje.Form1.resources
+C:\Users\ilhan\Desktop\Beyto\Projelerim\TelefonDefteriOrnekProje\TelefonDefteriOrnekProje\obj\Debug\TelefonDefteriOrnekProje.frmDuzenle.resources
+C:\Users\ilhan\Desktop\Beyto\Projelerim\TelefonDefteriOrnekProje\TelefonDefteriOrnekProje\obj\Debug\TelefonDefteriOrnekProje.frmHakkinda.resources
+C:\Users\ilhan\Desktop\Beyto\Projelerim\TelefonDefteriOrnekProje\TelefonDefteriOrnekProje\obj\Debug\TelefonDefteriOrnekProje.frmYeniKayıt.resources
+C:\Users\ilhan\Desktop\Beyto\Projelerim\TelefonDefteriOrnekProje\TelefonDefteriOrnekProje\obj\Debug\TelefonDefteriOrnekProje.Properties.Resources.resources
+C:\Users\ilhan\Desktop\Beyto\Projelerim\TelefonDefteriOrnekProje\TelefonDefteriOrnekProje\obj\Debug\TelefonDefteriOrnekProje.csproj.GenerateResource.Cache
+C:\Users\Beytullah\Desktop\Beytullah\Projelerim\C#\TelefonDefteriOrnekProje\TelefonDefteriOrnekProje\bin\Debug\TelefonDefteriOrnekProje.exe.config
+C:\Users\Beytullah\Desktop\Beytullah\Projelerim\C#\TelefonDefteriOrnekProje\TelefonDefteriOrnekProje\bin\Debug\TelefonDefteriOrnekProje.exe
+C:\Users\Beytullah\Desktop\Beytullah\Projelerim\C#\TelefonDefteriOrnekProje\TelefonDefteriOrnekProje\bin\Debug\TelefonDefteriOrnekProje.pdb
+C:\Users\Beytullah\Desktop\Beytullah\Projelerim\C#\TelefonDefteriOrnekProje\TelefonDefteriOrnekProje\obj\Debug\TelefonDefteriOrnekProje.csprojAssemblyReference.cache
+C:\Users\Beytullah\Desktop\Beytullah\Projelerim\C#\TelefonDefteriOrnekProje\TelefonDefteriOrnekProje\obj\Debug\TelefonDefteriOrnekProje.Form1.resources
+C:\Users\Beytullah\Desktop\Beytullah\Projelerim\C#\TelefonDefteriOrnekProje\TelefonDefteriOrnekProje\obj\Debug\TelefonDefteriOrnekProje.frmDuzenle.resources
+C:\Users\Beytullah\Desktop\Beytullah\Projelerim\C#\TelefonDefteriOrnekProje\TelefonDefteriOrnekProje\obj\Debug\TelefonDefteriOrnekProje.frmHakkinda.resources
+C:\Users\Beytullah\Desktop\Beytullah\Projelerim\C#\TelefonDefteriOrnekProje\TelefonDefteriOrnekProje\obj\Debug\TelefonDefteriOrnekProje.frmYeniKayıt.resources
+C:\Users\Beytullah\Desktop\Beytullah\Projelerim\C#\TelefonDefteriOrnekProje\TelefonDefteriOrnekProje\obj\Debug\TelefonDefteriOrnekProje.Properties.Resources.resources
+C:\Users\Beytullah\Desktop\Beytullah\Projelerim\C#\TelefonDefteriOrnekProje\TelefonDefteriOrnekProje\obj\Debug\TelefonDefteriOrnekProje.csproj.GenerateResource.cache
+C:\Users\Beytullah\Desktop\Beytullah\Projelerim\C#\TelefonDefteriOrnekProje\TelefonDefteriOrnekProje\obj\Debug\TelefonDefteriOrnekProje.csproj.CoreCompileInputs.cache
+C:\Users\Beytullah\Desktop\Beytullah\Projelerim\C#\TelefonDefteriOrnekProje\TelefonDefteriOrnekProje\obj\Debug\TelefonDefteriOrnekProje.exe
+C:\Users\Beytullah\Desktop\Beytullah\Projelerim\C#\TelefonDefteriOrnekProje\TelefonDefteriOrnekProje\obj\Debug\TelefonDefteriOrnekProje.pdb
